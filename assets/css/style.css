@@ -35,7 +35,7 @@ p {
 /* Main */
 
 .container {
-  background-color: var(--grayish-blue);
+  background-color: var(--light-gray);
   min-height: 100%;
   display: flex;
   justify-content: center;
